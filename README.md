@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @PavankumarSuntyal
+- 👀 I’m interested in ...
+1)Editing..
+2)Watching informative Videos
+- 🌱 I’m currently learning ...
+  1)B pharmacy
+- 😊I am Happy with this Course ...
+- 📫 How to reach me-8904331189...
+
+<!---
+PavankumarSuntyal/PavankumarSuntyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
